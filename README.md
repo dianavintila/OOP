@@ -1,2 +1,2 @@
 # OOP
-Object-oriented programming in JAVA
+Object-oriented programming in Java
